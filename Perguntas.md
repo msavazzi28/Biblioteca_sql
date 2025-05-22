@@ -5,11 +5,12 @@ SELECT COUNT(*) FROM livros;
   <img src="Fotos%20Respostas/Resposta%201.png" alt="Resposta 1" width="600"/>
 </p>
 
-
-
 2 - Listar todos os usuários ordenados pelo nome.
 SELECT distinct nome FROM usuarios;
- ![Resposta 2](Fotos Respostas/Resposta 2.png)
+<p align="center">
+  <img src="Fotos%20Respostas/Resposta%202.png" alt="Resposta 1" width="600"/>
+</p>
+
 
 
 3 - Mostrar todos os empréstimos realizados no mês atual.
