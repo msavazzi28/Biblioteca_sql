@@ -1,5 +1,5 @@
 
-# 📘 Perguntas SQL com Respostas Visuais
+# 📘 Perguntas SQL
 
 ---
 
