@@ -2,14 +2,17 @@
 <p align="center">
   <img src="Fotos%20Respostas/Tabela%20Usuarios.png" alt="Resposta 1" width="600"/>
 </p>
-# 📘 Tabela emprestimos:
+
+# 📘 Tabela usuarios:
 <p align="center">
   <img src="Fotos%20Respostas/Tabela%20Emprestimos.png" alt="Resposta 1" width="600"/>
 </p>
+
 # 📘 Tabela livros:
 <p align="center">
   <img src="Fotos%20Respostas/Tabela%20Livros.png" alt="Resposta 1" width="600"/>
 </p>
+
 # 📘 Perguntas SQL
 
 ---
