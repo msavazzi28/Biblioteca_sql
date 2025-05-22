@@ -5,7 +5,7 @@ SELECT COUNT(*) FROM livros;
 
 2 - Listar todos os usuários ordenados pelo nome.
 SELECT distinct nome FROM usuarios;
- 
+ ![Resposta 2](Fotos Respostas/Resposta 2.png)
 
 
 3 - Mostrar todos os empréstimos realizados no mês atual.
