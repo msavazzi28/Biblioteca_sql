@@ -1,7 +1,8 @@
 Perguntas SQL
 1 - Quantos livros existem cadastrados?
 SELECT COUNT(*) FROM livros;
- ![Resposta 1](Fotos Respostas/Resposta 1.png)
+![Resposta 1](Fotos%20Respostas/Resposta%201.png)
+
 
 2 - Listar todos os usuários ordenados pelo nome.
 SELECT distinct nome FROM usuarios;
